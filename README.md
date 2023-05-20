@@ -104,7 +104,7 @@ nb plugin update nonebot_plugin_midjourney
 
 1. 创建Discord帐户并创建您的服务器（说明在此处：https://discord.com/blog/starting-your-first-discord-server）
 2. 加入midjourney官方频道[https://discord.gg/midjourney](https://discord.gg/midjourney)
-3. 创建Midjourney帐户并邀请Midjourney机器人到您的服务器（说明在此处：https://docs.midjourney.com/docs/invite-the-bot）
+3. 创建Midjourney帐户并邀请Midjourney机器人到您的服务器（说明在此处：[https://docs.midjourney.com/docs/invite-the-bot](https://docs.midjourney.com/docs/invite-the-bot)）
 4. 确保从您的服务器进行生成操作
 5. 在浏览器中登录Discord，打开您的服务器的文本频道，点击右上角的三个点，然后选择更多工具，再选择 "开发者工具"（直接键盘按F12）。
 选择 "网络" 选项卡，您将看到页面的所有网络活动。
